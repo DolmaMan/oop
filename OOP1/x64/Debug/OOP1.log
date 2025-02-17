@@ -1,0 +1,6 @@
+﻿  Phones.cpp
+C:\Users\toor\source\repos\OOP1\OOP1\Phones.cpp(119,36): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\toor\source\repos\OOP1\OOP1\Phones.cpp(124,35): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\toor\source\repos\OOP1\OOP1\Phones.cpp(128,35): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\toor\source\repos\OOP1\OOP1\Phones.cpp(132,35): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  OOP1.vcxproj -> C:\Users\toor\source\repos\OOP1\x64\Debug\OOP1.exe
